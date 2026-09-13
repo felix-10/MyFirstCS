@@ -1,0 +1,13 @@
+{
+  "exclusive": [
+    { "mod": "WeaponTrial", "curse": "Armor", "text": "武器试炼专武无法强化，搭配高护甲怪物会造成严重刮痧，禁止同时选择" },
+    { "mod": "VeinResonance", "curse": "Bleed", "text": "怪物获得血脉持续伤害，叠加流血诅咒，生存压力超出设计阈值，禁止同时选择" },
+    { "mod": "DashWay", "curse": "Swift", "text": "双重移速冷却修改，冲刺逻辑容易异常，禁止同时开启" },
+    { "mod": "VeinResonance", "curse": "ChaosMutate", "text": "怪物同时获得双重血脉来源，性能与难度不可控，互斥" }
+  ],
+  "warn": [
+    { "mod": "GaleField", "curse": "Swift", "text": "双重移速加成，怪物移动速度极高，对局难度大幅提升" },
+    { "mod": "FleshOffering", "curse": "Bleed", "text": "双重生命损耗，生存压力极大，谨慎选择" },
+    { "mod": "RotSpread", "curse": "PlagueSpread", "text": "大范围持续DOT叠加，帧率压力升高，谨慎开启" }
+  ]
+}

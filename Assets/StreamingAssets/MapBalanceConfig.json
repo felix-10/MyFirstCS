@@ -1,0 +1,15 @@
+{
+  "maps": [
+    {"id":"VeinWaste","star":1,"title":"末日城市 ★1","blurb":"楼块网格，障碍多。入门星级。","hp":1.1,"armor":3,"damage":1,"move":1,"hazard":0,"ember":60,"risk":0,"eliteEarly":0},
+    {"id":"VeinWaste","star":2,"title":"末日城市 ★2","blurb":"楼块网格。怪物更耐打。","hp":1.4,"armor":8,"damage":1,"move":1,"hazard":0,"ember":90,"risk":0.15,"eliteEarly":0},
+    {"id":"VeinWaste","star":3,"title":"末日城市 ★3","blurb":"部分道路被废墟封堵。","hp":1.8,"armor":12,"damage":1.15,"move":1,"hazard":0,"ember":130,"risk":0.35,"eliteEarly":10},
+    {"id":"BoneCloister","star":1,"title":"生命绝地 ★1","blurb":"少量障碍与腐蚀垫。","hp":1,"armor":0,"damage":1,"move":1,"hazard":12,"ember":60,"risk":0,"eliteEarly":0},
+    {"id":"BoneCloister","star":2,"title":"生命绝地 ★2","blurb":"更多腐蚀垫。","hp":1.3,"armor":0,"damage":1,"move":1,"hazard":16,"ember":90,"risk":0.15,"eliteEarly":0},
+    {"id":"BoneCloister","star":3,"title":"生命绝地 ★3","blurb":"大面积腐蚀，安全岛变少。","hp":1.7,"armor":6,"damage":1.1,"move":1,"hazard":21,"ember":130,"risk":0.35,"eliteEarly":10},
+    {"id":"AshMarsh","star":1,"title":"神之平原 ★1","blurb":"几乎无障碍。","hp":1,"armor":0,"damage":1.1,"move":1,"hazard":0,"ember":60,"risk":0,"eliteEarly":0},
+    {"id":"AshMarsh","star":2,"title":"神之平原 ★2","blurb":"开阔平原，怪物更疼。","hp":1,"armor":0,"damage":1.4,"move":1,"hazard":0,"ember":90,"risk":0.15,"eliteEarly":0},
+    {"id":"AshMarsh","star":3,"title":"神之平原 ★3","blurb":"随机腐蚀斑块，移速提升。","hp":1.2,"armor":2,"damage":1.8,"move":1.1,"hazard":10,"ember":130,"risk":0.35,"eliteEarly":10},
+    {"id":"CaveHollow","star":4,"title":"裂隙洞窟 ★4","blurb":"狭窄回廊与立柱，视野受限。","hp":2.2,"armor":14,"damage":1.6,"move":1.05,"hazard":8,"ember":190,"risk":0.55,"eliteEarly":25},
+    {"id":"InfernalRuin","star":5,"title":"炼狱遗迹 ★5","blurb":"灼烧与腐蚀叠加，Boss 强制二阶段。","hp":2.8,"armor":18,"damage":2,"move":1.12,"hazard":18,"ember":260,"risk":0.75,"eliteEarly":40}
+  ]
+}

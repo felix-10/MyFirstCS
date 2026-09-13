@@ -1,0 +1,53 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-buildid.txt
+sysinfo.txt
+*.stackdump
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vscode/*
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local Tuanjie / Codely tooling (not part of the game)
+.codely-cli/
+.codely.packages/
+
+# Addressables / Burst
+ServerData/
+BurstDebugInformation/
+InitTestScene*.unity*

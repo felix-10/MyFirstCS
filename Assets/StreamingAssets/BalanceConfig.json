@@ -1,0 +1,28 @@
+{
+  "version": 26,
+  "xp": { "base": 30, "perLevel": 14 },
+  "endlessCaps": { "hp": 4.0, "move": 2.0, "damage": 3.5 },
+  "spawnBudget": { "max": 48, "base": 9, "perSeconds": 12 },
+  "emberCurseClamp": [1.0, 2.2],
+  "hazardResistCap": 0.7,
+  "passiveMaxStacks": 6,
+  "weaponSlots": 8,
+  "weaponLevelCap": 5,
+  "rerolls": 3,
+  "replaces": 8,
+  "uniqueLevels": [3, 6, 12, 18, 25],
+  "dotLatch": 0.25,
+  "metaResetCost": 120,
+  "farmWindowMin": 20,
+  "farmDecay": 0.2,
+  "farmFloor": 0.4,
+  "farmClearMin": 120,
+  "failEmberFloor": 0.3,
+  "metaCaps": {
+    "haste": 0.06,
+    "veinDot": 0.16,
+    "hp": 20,
+    "crit": 0.06,
+    "armor": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "Standard": { "winSeconds": 1200, "hpDiv": 160, "moveDiv": 360 },
+  "Short": { "winSeconds": 600, "hpDiv": 110, "moveDiv": 280, "eventMul": 0.7 },
+  "Endless": { "winSeconds": 0, "hpCap": 4.0, "moveCap": 2.0, "damageCap": 3.5 },
+  "BossRush": { "winBosses": 5, "trash": false, "bossHp": 1.2 }
+}
